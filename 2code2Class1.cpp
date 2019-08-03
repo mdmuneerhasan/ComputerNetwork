@@ -2,6 +2,8 @@
 #include<string>
 using namespace std;
 int main(){
+    cout << "Name : MyName"<<endl;
+    cout << "Roll no. : MyRollNo." << endl;
     cout << "enter encrypted message" ;
     string message,encryp,decryp;
     cin >> encryp;
